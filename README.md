@@ -11,11 +11,14 @@
 
 ## Description
 
-# Features:
+This is an ecommerce website that has been modified to use React Redux instead of Context API.
+Users can shop and buy items of their choice. They can also create a user account to keep track of both current and past orders.
 
 ### Demo
 
-![alt text](https://state-ecommerce-4.onrender.com/)
+![alt text](./images/Screenshot%202024-05-22%20at%206.44.58 PM.png)
+
+[Deployed App Here](https://state-ecommerce-4.onrender.com/)
 
 ## Installation
 
