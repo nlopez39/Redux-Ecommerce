@@ -15,7 +15,7 @@
 
 ### Demo
 
-![alt text]()
+![alt text](https://state-ecommerce-4.onrender.com/)
 
 ## Installation
 
@@ -28,7 +28,7 @@ To use this project,
 1.  Go to the cloned files, then type `npm i` in your terminal to install the appropriate dependencies. Be sure you’re in the correct location in your terminal first!
 2.  Start the project by entering `npm run develop`
 
-    You can also just use the live application [here]()
+    You can also just use the live application [here](https://state-ecommerce-4.onrender.com/)
 
 ## Credits
 
