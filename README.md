@@ -1,4 +1,4 @@
-# Redux-Ecommerce-Website
+# Redux-Ecommerce
 
 ## Table of Contents
 
@@ -14,11 +14,13 @@
 This is an ecommerce website that has been modified to use React Redux instead of Context API.
 Users can shop and buy items of their choice. They can also create a user account to keep track of both current and past orders.
 
-### Demo
-
 ![alt text](./images/Screenshot%202024-05-22%20at%206.44.58 PM.png)
 
-[Deployed App Here](https://state-ecommerce-4.onrender.com/)
+### Demo
+
+This website has been deployed using Render and MongoDB Atlas for the Database:
+
+[Click Here to See the App](https://state-ecommerce-4.onrender.com/)
 
 ## Installation
 
@@ -29,9 +31,10 @@ To install this project you can either perform a `git clone` in your command-lin
 To use this project,
 
 1.  Go to the cloned files, then type `npm i` in your terminal to install the appropriate dependencies. Be sure you’re in the correct location in your terminal first!
-2.  Start the project by entering `npm run develop`
+2.  Populate the databse by running `npm run seed`
+3.  Start the application by running `npm run develop`
 
-    You can also just use the live application [here](https://state-ecommerce-4.onrender.com/)
+You can also just use the live application [here](https://state-ecommerce-4.onrender.com/)
 
 ## Credits
 
