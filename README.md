@@ -31,8 +31,8 @@ To install this project you can either perform a `git clone` in your command-lin
 To use this project,
 
 1.  Go to the cloned files, then type `npm i` in your terminal to install the appropriate dependencies. Be sure you’re in the correct location in your terminal first!
-2.  Populate the databse by running `npm run seed`
-3.  Start the application by running `npm run develop`
+2.  Populate the database by running `npm run seed`
+3.  Start the application by running `npm run start`
 
 You can also just use the live application [here](https://state-ecommerce-4.onrender.com/)
 
